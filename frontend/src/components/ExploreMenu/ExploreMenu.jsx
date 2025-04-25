@@ -32,6 +32,7 @@ export const ExploreMenu = ({ category, setCategory }) => {
             </div>
           );
         })}
+        exploremenu.jsx;
       </div>
       <hr />
     </div>
